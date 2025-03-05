@@ -1,6 +1,6 @@
 # HTMLCoreType
 
-* A Swift Macro made to wrap the minimum code needed to create existing HTML tags as Swift structs, made for [Brooklyn](https://github.com/BrooklynSwift/Brooklyn)
+* A Swift Macro that wraps the minimum code needed to create existing HTML tags as Swift structs, made for [Brooklyn](https://github.com/BrooklynSwift/Brooklyn)
 
 ## Socials
 
